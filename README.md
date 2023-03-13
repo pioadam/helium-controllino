@@ -3,4 +3,4 @@
 # helium-controllino
 Balena OpenFleet for Controllino / Conelcom Miners
 
-[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/NebraLtd/helium-controllino)
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/pioadam/helium-controllino)
