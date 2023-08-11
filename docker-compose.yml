@@ -70,6 +70,8 @@ services:
     expose:
       - "1680"
       - "4467"
+    ports:
+      - "1680:1680/udp" 
     environment:
       - FIRMWARE_VERSION=v1.1.0
       - FIRMWARE_SHORT_HASH=6b72158
