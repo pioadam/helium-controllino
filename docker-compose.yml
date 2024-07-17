@@ -59,7 +59,7 @@ services:
     expose:
       - "1681"
     ports:
-      - "1685:1685"
+      - "1685:1685/udp"
 
   helium-miner:
     image: nebraltd/hm-gatewayrs:arm64-5428419
